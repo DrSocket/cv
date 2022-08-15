@@ -66,12 +66,12 @@ education:
          memory, then moved on to memory management, parallel computing, algorithms and data structures.
         I then learnt OOP and networking with C++, followed by full stack in typescript. After that the choice of projects is more individual as long as they fullfil certain requirements.
         For the degree I chose I am focusing on:
-        - Creating software that will handle the fundamentals of an operating system through an interface
+        - Data Science
         - Using parallel and concurrent programming
-        - Carrying out a network architecture project
-        - Implementing an I.P. network architecture through an understanding and application of the principles of connection between machines
-        - Configuring an operating system
-        - Providing security within the structure
+        - Algorithms and Machine Learning
+        - Networking and DevOps
+        - Security
+        - Systems Administration
     - degree: BSc in Audio Engineering
       university: SAE Institute Berlin
       time: 2010 - 2013
