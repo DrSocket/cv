@@ -79,11 +79,11 @@ education:
         During this Bachelor Degree I learnt the fundamentals of Audio Engineering as well as Music Industry. I learnt about Mixing, Mastering, Music and using recording tools (equalizers, compressors, microphones, speakers). 
         I also attended courses on Business and Marketing, Copyright law, as well as maintenance and repair of audio equipment, which entails soldering and circuit boards.
 experiences:
-    details: |
-      Travelling was a big part of my childhood and early adult life, I started working in Mexico my home country at 18 as a personal tour guide, selling and guiding the tours.
-      Through this experience I was able to come in contact with people from various countries and different social economic backgrounds. In my early 20s I moved to Barcelona and then Berlin
-      to pursue and further my studies in Audio Engineering. During my studies I became interested in Eastern philosophy, meditation and yoga which led me upon completion to travel to India 
-      and south east Asia where I spent the next several years studying local traditional techniques, this led me to teach Yoga for the last few years with the blessing of my teacher.
+    - details: |
+        Travelling was a big part of my childhood and early adult life, I started working in Mexico my home country at 18 as a personal tour guide, selling and guiding the tours.
+        Through this experience I was able to come in contact with people from various countries and different social economic backgrounds. In my early 20s I moved to Barcelona and then Berlin
+        to pursue and further my studies in Audio Engineering. During my studies I became interested in Eastern philosophy, meditation and yoga which led me upon completion to travel to India 
+        and south east Asia where I spent the next several years studying local traditional techniques, this led me to teach Yoga for the last few years with the blessing of my teacher.
 
     # - role: Lead Developer
     #   time: 2015 - Present
@@ -142,7 +142,7 @@ projects:
         tagline: "The purpose of this project was to learn socket programming as well as understanding the reference (RFC) for the irc chat protocol.
         The client used as reference is irssi."
 
-      - title: Cub3d
+      - title: Cub3d (C)
         link: "#"
         tagline: "A graphics project, the purpose was to learn raycasting and understand the inner workings of graphical engines."
 
