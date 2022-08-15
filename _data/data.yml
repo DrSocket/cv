@@ -140,7 +140,7 @@ projects:
         link: "#"
         tagline: "A graphics project, the purpose was to learn raycasting and understand the inner workings of graphical engines."
 
-      - title: Linear Regression
+      - title: Linear Regression (Python)
         link: "#"
         tagline: "This project is an intro into AI and Machine Learning by creating a basic machine learning algorithm.
         It is a program that predicts the price of a car by using a linear function train with a gradient descent algorithm."
