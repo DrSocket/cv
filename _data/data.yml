@@ -151,6 +151,10 @@ projects:
         tagline: "This project is an intro into AI and Machine Learning by creating a basic machine learning algorithm.
         It is a program that predicts the price of a car by using a linear function train with a gradient descent algorithm."
 
+      - title: Snowcrash (ASM and Bash)
+        link: "#"
+        tagline: "The theme of this project is Computer Security. It is a Capture the flag challenge with the purpose of learning forensics, hardware, reverse engineering, pwn, etc..."
+
 # publications:
 #     title: Publications
 #     intro: |
