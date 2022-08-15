@@ -53,14 +53,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently a student at 42 School Paris, I am looking for an end-of-study internship to have real-world software engineering experience. 
+      A 4-6 month internship is a necessary as part of my MSc degree in Network Information Systems Architecture.
 education:
     - degree: Network Information Systems Architecture
       university: 42 School Paris
@@ -123,13 +119,11 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of the projects that I completed during my studies at 42. They are available on github.
     assignments:
-      - title: Velocity
+      - title: Transcendence
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A single-page application built in Typescript and Deployed using Docker. Backend was served with NestJS, the Frontend with Vue.js. Postgres was used as db with TypeORM."
 
       - title: DevStudio
         link: "#"
@@ -193,6 +187,9 @@ skills:
 
       - name: Docker
         level: 85%
+
+      - name: Python
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i>
