@@ -62,10 +62,10 @@ education:
       university: 42 School Paris
       time: 2019 - current
       details: |
-        At 42 we learn computer programming to hands on projects. The first 2 years projects are almost entirely written in C,
+        At 42 we learn software engineering with hands on projects. We begin the studies coding in C,
         we learn memory management, parallel computing, algorithms and data structures.
         We then learn OOP and networking with C++. Followed by full stack in typescript. After that the topic of projects are more individual so we can specialize in the field of our choice.
-        For the degree we focus on:
+        For the degree I chose we focus on:
         - Creating software that will handle the fundamentals of an operating system through an interface
         - Using parallel and concurrent programming
         - Carrying out a network architecture project
@@ -76,8 +76,8 @@ education:
       university: SAE Institute Berlin
       time: 2010 - 2013
       details: |
-        During this Bachelor Degree we learn the fundamentals of Audio Engineering as well as Music Industry. We learn about Mixing, Mastering, Music and using recording tools (equalizers, compressors, microphones, speakers). We had courses on Business and Marketing, Copyright law, 
-        as well as maintenance and repair of audio equipment.
+        During this Bachelor Degree we learn the fundamentals of Audio Engineering as well as Music Industry. We learn about Mixing, Mastering, Music and using recording tools (equalizers, compressors, microphones, speakers). 
+        We also had courses on Business and Marketing, Copyright law, as well as maintenance and repair of audio equipment, this entails soldering and circuit boards.
 # experiences:
 #     - role: Lead Developer
 #       time: 2015 - Present
@@ -119,27 +119,31 @@ education:
 projects:
     title: Projects
     intro: >
-      These are some of the projects that I completed during my studies at 42. They are available on github.
+      These are some of the projects that I completed during my studies at 42. The projects are available on github with a full description.
     assignments:
-      - title: Transcendence
+      - title: Transcendence (NestJS, Vue.js, Postgres, Docker)
         link: "#hook"
-        tagline: "A single-page application built in Typescript and Deployed using Docker. Backend was served with NestJS, the Frontend with Vue.js. Postgres was used as db with TypeORM."
+        tagline: "A single-page application built in Typescript and Deployed using Docker. Backend using NestJS, Frontend using Vue.js. Postgres db with TypeORM. 
+        The web application offers a multiplayer pong game and full featured chat service making use of Websockets."
 
-      - title: DevStudio
+      - title: Containers (C++)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "For this project I implemented a few of the containers from the C++ STL. These include: vector, map, stack and set. The purpose was to better understand
+        C++ STL and using Templates in general as well as complexity."
 
-      - title: Tempo
+      - title: IRC Server (C++)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The purpose of this project was to learn socket programming as well as understanding the reference (RFC) for the irc chat protocol.
+        The client used as reference is irssi."
 
-      - title: Atom
+      - title: Cub3d
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A graphics project, the purpose was to learn raycasting and understand the inner workings of graphical engines."
 
-      - title: Delta
+      - title: Linear Regression
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This project is an intro into AI and Machine Learning by creating a basic machine learning algorithm.
+        It is a program that predicts the price of a car by using a linear function train with a gradient descent algorithm."
 
 # publications:
 #     title: Publications
